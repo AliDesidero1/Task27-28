@@ -1,6 +1,8 @@
 package fatih.task28.Task02;
 
-public class Vehicle {
+import task28.Task02.OtoGaleri;
+
+public class Vehicle extends OtoGaleri {
 
 
 }
