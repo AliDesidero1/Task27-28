@@ -1,4 +1,4 @@
-package task28.Task05;
+package AliDesidero.task28.Task05;
 
 public class IsbasvuruMain {
 

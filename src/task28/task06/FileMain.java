@@ -1,4 +1,4 @@
-package task28.task06;
+package AliDesidero.task28.task06;
 
 public class FileMain {
     public static void main(String[] args) {

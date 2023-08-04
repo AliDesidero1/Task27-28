@@ -1,4 +1,4 @@
-package ch27_Abstraction.task27.Ornek1;
+package task27.Ornek1;
 
 public class OtoMain {
     public static void main(String[] args) {

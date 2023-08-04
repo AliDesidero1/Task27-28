@@ -1,6 +1,6 @@
-package ch27_Abstraction.task27.Ornek1;
+package task27.Ornek1;
 
-public class Ford extends BinekOto {
+public class Ford extends ch27_Abstraction.task27.Ornek1.BinekOto {
 
     //abstract metod olduğundan zorunlu olarak
     // yazılmak zorunda (imlemente edildi.)

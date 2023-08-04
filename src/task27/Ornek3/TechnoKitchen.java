@@ -1,7 +1,7 @@
-package ch27_Abstraction.task27.Ornek3;
+package task27.Ornek3;
 
-public class TechnoKitchen extends TechnoCafe {
-    public static void Pisir(IFood yemek) {
+public class TechnoKitchen extends ch27_Abstraction.task27.Ornek3.TechnoCafe {
+    public static void Pisir(ch27_Abstraction.task27.Ornek3.IFood yemek) {
 
     }
 }

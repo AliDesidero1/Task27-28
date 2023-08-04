@@ -1,4 +1,6 @@
-package ch27_Abstraction.task27.ornek5;
+package task27.ornek5;
+
+import AliDesidero.task27.ornek5.Personel;
 
 public class Isci extends Personel {//abs Personel parent Clas'a extends->concrete child Isci class
     @Override//mecbur implemen edilemli
